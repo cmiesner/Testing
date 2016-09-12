@@ -1,9 +1,5 @@
-#idfloatleft {float: left; background-color: #e5d1d1; font-family: Verdana, sans-serif; padding: 20px;}
-
+#idfloatleft {float: left; background-color: #cccc77; font-family: Verdana, sans-serif; padding: 20px;}
 .classheadlinedot {color: red; border-bottom: blue dotted;}
-
-#idabsolutegray {positioning: absolute; top: 20; right: 40; background-color: #d3d3d3; border-style: solid black;}
-
-.classrelativegreen {positioning: relative; left: 15; background-color: #98fb98;}
-
-#idfixedgray {position: fixed; background-color: #d3d3d3; padding: 10px; font-weight: bold;}
+#idabsolutegray {positioning: absolute; top: 20px; right: 40px; background-color: #939393; border-style: solid black;}
+.classrelativegreen {positioning: relative; left: 15px; background-color: #ADFF2F;}
+#idfixedgray {position: fixed; background-color: #939393; font-weight: bold; padding: 10px; }
